@@ -1,0 +1,1 @@
+export {mockReactComponent} from './mockReactComponent'
